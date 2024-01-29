@@ -67,3 +67,5 @@ args=parser.parse_args()
  python main.py // python --mode all --lr 7e-5 --epochs 5 --dropout 0.6
   ```
 ---
+# 四、参考库
+使用torch、torchvision、PIL、pandas、numpy、transformers、sklearn库实现
