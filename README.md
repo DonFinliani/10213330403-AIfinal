@@ -39,7 +39,7 @@ transformers==4.36.1
 │   10213330403张珈鸣lab5实验报告.md
 │   README.md
 │   
-├───Data
+├───Data        
 │   │   predict.txt
 │   │   result.txt
 │   │   test_without_label.txt
@@ -47,7 +47,7 @@ transformers==4.36.1
 │   │   
 │   ├───data     
   
-├───model
+├───model    模型文件过大，没有上传到Github
 │       image_7e-05_dropout0.6_batch_full.pth
 │       multi_7e-05_dropout0.6_batch_full.pth
 │       text_7e-05_dropout0.6_batch_full.pth
